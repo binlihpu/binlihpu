@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=binlihpu&show_icons=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binlihpu&layout=compact)
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binlihpu)
