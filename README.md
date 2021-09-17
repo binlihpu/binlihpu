@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 个人博客：够浪程序员(https://golangcode.top)
+
 <!--
 **binlihpu/binlihpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +18,4 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=binlihpu&show_icons=true&include_all_commits=true&show_icons=true&theme=radical)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binlihpu&layout=compact)
-[![binlihpu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binlihpu)](https://github.com/anuraghazra/github-readme-stats)
 
