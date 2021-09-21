@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 个人博客：够浪程序员(https://golangcode.top)
+- 🌱 个人博客：够浪程序员(https://golangcode.top)
 
 <!--
 **binlihpu/binlihpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
